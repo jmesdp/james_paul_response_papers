@@ -1,1 +1,9 @@
+While I found the premise of Melville's Marginalia fascinating, the disorganized user interface and lack of curation made the information — from a layperson's perspective — unusable. Without a selection of categories to explore common markups or an ordering of Melville's favorite books, it's nearly impossible to draw insights from the massive collection of information. 
 
+The site is intended for someone with a straightforward, directed question about Melville's personal life and thoughts. This is seen on the landing page, which blinds the user to an overview of the project or its capabilities. This modest approach initially leaves the user feeling overwhelmed with an unclear directional sense of where to go next. This – like the sites other pages — undersells the vast corpus collected and studied by the researchers, almost threatening the information with a lack of utility.
+
+The site's search page, which I thought was the most useful, was inundated by its poor layout, offering an avalanche of text and little direction on what to search. It would have helped if the list of searchable books was bulleted. Also, I found it an odd choice to fold that list in with Melville's biography, which I thought was deserving of a headier 
+
+This over-modest-through-under-design is most flagrant in the Browse Volumes section, a clunky, click-based approach to searching that's impossible to navigate unless you have a straightforward question in mind. Clicking on one of the frayed, hard-to-read spines yields nothing more than pages-upon-pages of barren pages with a few pencil markups. Because the researchers insights aren't more apparent, one gets the sense that Melville didn't have much going on in his head.
+
+In the future, I'm going to look at this shoddy example of User Interface as a standard to strive away from.
